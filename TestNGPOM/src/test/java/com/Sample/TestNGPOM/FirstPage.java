@@ -16,7 +16,7 @@ public class FirstPage {
 	
 	public FirstPage(WebDriver driver) {
 		
-		this.driver=driver;
+	this.driver=driver;
 		
 	}
 	
