@@ -32,7 +32,7 @@ public class TestPage {
 	
 	public void setup() {
 		
-		System.out.println("This is pushed success");
+		
 		
 		System.setProperty("webdriver.gecko.driver", driverPath);
 		
